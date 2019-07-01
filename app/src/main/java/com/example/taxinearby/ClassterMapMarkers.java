@@ -4,9 +4,8 @@ package com.example.taxinearby;
 
         import io.nlopez.clusterer.Clusterable;
 
-/**
- * Created by Nacho Lopez on 28/10/13.
- */
+
+        
 public class ClassterMapMarkers implements Clusterable {
 
     private LatLng locationLatLng;
